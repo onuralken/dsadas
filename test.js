@@ -1,2 +1,2 @@
-console.log("bgit");
+console.log("12");
 
